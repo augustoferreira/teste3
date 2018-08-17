@@ -1,3 +1,3 @@
 # relação de jogos  
-* street fighther
+* street fighter
 * god of war
