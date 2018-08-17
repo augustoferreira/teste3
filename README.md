@@ -1,3 +1,3 @@
 # relação de jogos  
-* jogo preferido 1 
-* jogo preferido 2
+* street fighther
+* god of war
